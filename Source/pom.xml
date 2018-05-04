@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>twigkit</groupId>
     <artifactId>wolframalpha-java-api</artifactId>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>wolframalpha-java-api</name>
     <description>Java API for the WolframAlpha Knowledge Engine</description>
